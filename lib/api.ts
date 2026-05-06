@@ -1,6 +1,6 @@
 import { ApiResponse } from './types';
 
-const WEBHOOK_URL = "https://edumate-n8n.onrender.com/webhook/study";
+const WEBHOOK_URL = "https://omdeveloper.app.n8n.cloud/webhook/study";
 export async function askEduMate(params: {
   phone: string;
   name: string;
